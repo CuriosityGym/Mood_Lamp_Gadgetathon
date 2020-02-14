@@ -6,9 +6,9 @@
 #include <avr/power.h>
 #endif
 
-char auth[] = "LQR9owdWdvLZhUn0TvSCSp6lC1Xdzz3B";
-char ssid[] = "The Promised LAN";
-char pass[] = "imagineyourquestion";
+char auth[] = "XXXXXXXXXXXXXXXXXXXXXXXX"; // Enter your auth token 
+char ssid[] = "XXXXXXXXXXXXXXXXXXXXXXXX"; // Enter your wifi SSID
+char pass[] = "XXXXXXXXXXXXXXXXXXXXXXXX"; // Enter your wifi password
 
 int red = 255;
 int green = 255;
